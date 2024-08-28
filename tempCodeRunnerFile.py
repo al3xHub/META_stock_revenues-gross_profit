@@ -1,0 +1,1 @@
+print(indices_symbol)
